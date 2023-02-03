@@ -1,6 +1,8 @@
 # Collab-Test
 Creating a protected repo for collaborators
 
+The coolest part about JavaScript so far is utilizing various JS libraries.
+
 I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
 
 
